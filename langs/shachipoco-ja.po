@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ShaChiPoCo\n"
+"POT-Creation-Date: 2014-04-28 17:40+0900\n"
+"PO-Revision-Date: 2014-04-28 17:40+0900\n"
+"Last-Translator: KUCKLU <kucklu.xxx.happydays@gmail.com>\n"
+"Language-Team: VisuAlive\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../include/customizer.php:33
+msgid "Theme color settings"
+msgstr "テーマカラー設定"
+
+#: ../include/customizer.php:34
+msgid "Change the theme color."
+msgstr "テーマカラーを変更します。"
+
+#: ../include/customizer.php:44
+msgid "Main color"
+msgstr "メインカラー"
+
+#: ../include/customizer.php:55
+msgid "Main color (Font)"
+msgstr "メインカラー (Font)"
+
+#: ../include/customizer.php:66
+msgid "Accent color"
+msgstr "アクセントカラー"
+
+#: ../include/customizer.php:77
+msgid "Accent color (:hover)"
+msgstr "アクセントカラー (:hover)"
+
+#: ../include/customizer.php:88
+msgid "Accent color (:active)"
+msgstr "アクセントカラー (:active)"
+
+#: ../shachipoco.php:48
+msgid ""
+"Theme \"Twenty Fourteen\" is not enabled. Please enable \"Twenty Fourteen\" "
+"in Themes."
+msgstr ""
+"テーマ「Twenty Fourteen」が有効化されていません。テーマ設定より「Twenty "
+"Fourteen」を有効化してください。"
